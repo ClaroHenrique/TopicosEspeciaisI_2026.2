@@ -1,5 +1,7 @@
 # Copa do mundo
 
+Fonte: [https://olimpiada.ic.unicamp.br/pratique/p1/2010/f1/copa/](https://olimpiada.ic.unicamp.br/pratique/p1/2010/f1/copa/)
+
 Este ano tem Copa do Mundo! O país inteiro se prepara para torcer para a equipe canarinho conquistar mais um título, tornando-se hexacampeã.
 
 Na Copa do Mundo, depois de uma fase de grupos, dezesseis equipes disputam a Fase Final, composta de quinze jogos eliminatórios. A figura abaixo mostra a tabela de jogos da Fase Final:
