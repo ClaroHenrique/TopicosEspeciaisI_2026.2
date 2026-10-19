@@ -1,0 +1,15 @@
+Case=T1
+Input=5
+9 4 7 2 8
+Output=2
+
+Case=T2
+Input=5
+1 4 7 2 8
+Output=1
+
+
+Case=T3
+Input=5
+9 4 7 2 0
+Output=0
